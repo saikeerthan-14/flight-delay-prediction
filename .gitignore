@@ -1,0 +1,7 @@
+*.pdf
+*CIS_662*
+*.DS_Store
+*.ipynb_checkpoints
+/departure_datasets
+/data/arrivals
+/data/departures
