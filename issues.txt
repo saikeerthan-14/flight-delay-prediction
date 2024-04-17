@@ -1,0 +1,2 @@
+1. Found issue with timezone 
+2. Found issue with departure and arrival date - 
